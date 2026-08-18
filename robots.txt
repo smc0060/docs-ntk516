@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-yu4rvx.saturadar88win.sbs/sitemap.xml
